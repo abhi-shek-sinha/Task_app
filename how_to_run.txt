@@ -1,0 +1,8 @@
+steps to run app on local pc.
+
+1- download the zip file
+2- change mongoose.connect url from server.js file according to your local host mongodb.
+3 - now npm install all the dependencies
+4 - now open terminal and go inside the server directory and run npm node server.js or nodemon server.js (if you have nodemon installed).
+5 - now open new terminal in root folder and run npm start
+app will be running now.
