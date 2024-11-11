@@ -1,0 +1,4 @@
+ git clone
+ cd
+ git status
+ git add
