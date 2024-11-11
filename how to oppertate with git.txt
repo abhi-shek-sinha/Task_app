@@ -2,3 +2,5 @@
  cd
  git status
  git add
+ git commit -m "some message" -m "some description"
+ git push 
